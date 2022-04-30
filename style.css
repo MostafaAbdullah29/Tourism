@@ -3,6 +3,7 @@
 
 /* ..add url to use the image from another website */
 body {
+ margin: 0;
  background-image: url(https://www.boredpanda.com/blog/wp-content/uploads/2021/06/owl023-60d15be582495__880.jpg);
         /* make it full image stop repeate */
   background-repeat:no-repeat;
@@ -65,6 +66,7 @@ h1 {
 }
 /* design the table as schedule with font color, background color and border */ 
 table {
+ margin: 10px;
   border-collapse: collapse;
   width:100%;
 }
@@ -104,6 +106,7 @@ h2 {
   width:50%;
   float:left;
   margin-right:10px;
+  margin-leftt:10px;
   background-color:rgb(0, 184, 230);
   padding:5%;
   border:solid rgb(255, 112, 77);
